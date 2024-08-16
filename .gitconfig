@@ -1,0 +1,7 @@
+[user]
+	name = lava
+	email = ceo@jasperkeyplay.com
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
