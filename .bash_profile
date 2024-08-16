@@ -1,4 +1,3 @@
-
 source ~/.nvm/nvm.sh
 nvm use stable
 shopt -s autocd
